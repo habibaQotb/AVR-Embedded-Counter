@@ -22,6 +22,10 @@ I/O Control Tasks:
 - Implemented solutions for sequential and alternating LED patterns and a base platform for Pulse Width Modulation (PWM), establishing a foundation for DC Motor Control and speed regulation.
 C, Delay Functions, PWM Fundamentals.
 
+
+### Simulation using Proteus
+<img width="1920" height="968" alt="{A2EB7EA1-ABD3-4DA3-9360-840BF3E265C1}" src="https://github.com/user-attachments/assets/c7123d3b-d78d-4f07-add3-25bb45efa71e" />
+
 ---
 
 ### Project Status
